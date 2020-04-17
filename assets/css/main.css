@@ -16,6 +16,14 @@ body {
   margin: 0 auto;
 }
 
+.section {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.section__parargaph {
+  font-size: 16px;
+}
+
 /* Header styles */
 
 .header {
@@ -35,3 +43,4 @@ body {
 .header__sub-title {
   font-size: 18px;
 }
+
